@@ -1,0 +1,14 @@
+D:\Code\VisualBasic\Tugas3PakAwang\Tugas3PakAwang\bin\Debug\Tugas3PakAwang.exe.config
+D:\Code\VisualBasic\Tugas3PakAwang\Tugas3PakAwang\bin\Debug\Tugas3PakAwang.exe
+D:\Code\VisualBasic\Tugas3PakAwang\Tugas3PakAwang\bin\Debug\Tugas3PakAwang.pdb
+D:\Code\VisualBasic\Tugas3PakAwang\Tugas3PakAwang\bin\Debug\Tugas3PakAwang.xml
+D:\Code\VisualBasic\Tugas3PakAwang\Tugas3PakAwang\obj\Debug\Tugas3PakAwang.vbproj.AssemblyReference.cache
+D:\Code\VisualBasic\Tugas3PakAwang\Tugas3PakAwang\obj\Debug\Tugas3PakAwang.vbproj.SuggestedBindingRedirects.cache
+D:\Code\VisualBasic\Tugas3PakAwang\Tugas3PakAwang\obj\Debug\Tugas3PakAwang.Form1.resources
+D:\Code\VisualBasic\Tugas3PakAwang\Tugas3PakAwang\obj\Debug\Tugas3PakAwang.Resources.resources
+D:\Code\VisualBasic\Tugas3PakAwang\Tugas3PakAwang\obj\Debug\Tugas3PakAwang.vbproj.GenerateResource.cache
+D:\Code\VisualBasic\Tugas3PakAwang\Tugas3PakAwang\obj\Debug\Tugas3PakAwang.vbproj.CoreCompileInputs.cache
+D:\Code\VisualBasic\Tugas3PakAwang\Tugas3PakAwang\obj\Debug\Tugas3PakAwang.exe
+D:\Code\VisualBasic\Tugas3PakAwang\Tugas3PakAwang\obj\Debug\Tugas3PakAwang.xml
+D:\Code\VisualBasic\Tugas3PakAwang\Tugas3PakAwang\obj\Debug\Tugas3PakAwang.pdb
+D:\Code\VisualBasic\Tugas3PakAwang\Tugas3PakAwang\obj\Debug\Tugas3PakAwang.Form2.resources
